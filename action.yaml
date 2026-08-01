@@ -9,7 +9,8 @@ inputs:
     default: Hello 
 
 outputs:
-  description: time greeted
+  time:
+    description: time greeted
 
 runs:
   using: node20
